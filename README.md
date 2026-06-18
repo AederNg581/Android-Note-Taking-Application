@@ -4,7 +4,7 @@ Steps to set up the frontend and start the backend servers.
 
 ---
 
-### Step 1: Install Frontend Dependencies
+### Step 1: Install Dependencies
 
 Run this command in the **root directory** of the project to install the required calendar package:
 
